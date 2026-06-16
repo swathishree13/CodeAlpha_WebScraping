@@ -98,4 +98,4 @@ Data Analytics Intern | Python Enthusiast | Aspiring Data Scientist
 LinkedIn: www.linkedin.com/in/swathi-shree-s-8b8641385
 ---
 
-⭐ This project was completed as part of the **CodeAlpha Data Science Internship Program**.
+⭐ This project was completed as part of the **CodeAlpha Data Analytics Internship Program**.
